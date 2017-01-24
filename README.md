@@ -1,2 +1,6 @@
 # hello-world
-Demo Hello World tutorial
+
+This is my first attempt at following the demo for GitHub
+
+;-)
+
